@@ -1,0 +1,3 @@
+visualstudio
+windows8
+framework
